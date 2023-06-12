@@ -1,16 +1,10 @@
 # Tesla Landing Page Clone
 
-![Tesla Landing Page Clone](https://drive.google.com/file/d/1OLYt9LpxBhxNMmRDpzhiO1ekqgA3-7nF/view?usp=sharing)
+[![Tesla Landing Page Clone](https://github.com/AbsarDotDev/Tesla-Clone/blob/main/img/0af0fe0a-e228-4783-8e01-c6ef9ca3dc98.png)](https://www.youtube.com/watch?v=8xt90GR6-ss)
 
 ## Description
 
 This repository contains a clone of the Tesla landing page. The aim of this project is to recreate the look and feel of the official Tesla website using HTML, CSS, and JavaScript. Feel free to explore the code and customize it to your liking.
-
-## Preview
-
-Here is a preview of the Tesla Landing Page Clone:
-
-![Preview](preview_image_here)
 
 ## Technologies Used
 
